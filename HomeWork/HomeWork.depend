@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1442096418 source:c:\my documents\c++levelp\cpp-master (2)\lesson_01\homework\main.cpp
+	<Windows.h>
+	<iostream>
+	<cmath>
+	<clocale>
+
